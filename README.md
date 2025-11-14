@@ -37,4 +37,4 @@ I'm always learning and validating my skills.
 ### 📫 How to Reach Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/muhammad-bayu-bagaskara-362201299/]
-* **Instagram:** `https://www.instagram.com/calluyab_?igsh=ejhwdHJkOHVpeDN4`
+* **Instagram:** [https://www.instagram.com/calluyab_?igsh=ejhwdHJkOHVpeDN4]
