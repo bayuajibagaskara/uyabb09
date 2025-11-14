@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm an Informatics Engineering Student at Universi
 
 Here are some technologies I'm comfortable working with:
 
-* **Languages:** `PHP` `JavaScript` `Java` `Python` 'C++'
+* **Languages:** `PHP` `JavaScript` `Java` `Python` `C++`
 * **Database:** `MySQL`
 * **Frontend:** `HTML5` `CSS3` `Bootstrap`
 * **Tools:** `Git` `GitHub` `XAMPP` `Visual Studio Code`
