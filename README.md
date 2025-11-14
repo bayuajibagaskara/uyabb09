@@ -27,7 +27,8 @@ Here are some technologies I'm comfortable working with:
 ### 🏆 Licenses & Certifications
 
 I'm always learning and validating my skills.
-![Sertifikat Oracle Java Foundations](Sertifikat PBO_page-0001.jpg)
+![Sertifikat PBO_page-0001](https://github.com/user-attachments/assets/fdea952b-a39c-4381-9459-3f450471877f)
+
 **Oracle Academy - Java Foundations** (June 2024)  
     
 
