@@ -7,9 +7,10 @@ Welcome to my GitHub profile! I'm an Informatics Engineering Student at Universi
 ### 🚀 What I'm Focused On
 
 - 💻 **Backend Development:** Building robust server-side logic and APIs, primarily with PHP.
+- 🌐 **Frontend:** Creating responsive and user-friendly interfaces with HTML, CSS, and JavaScript.
 - 🗃️ **Database Management:** Designing relational databases using MySQL.
 - 🔐 **Web Security:** Implementing best practices like password hashing (`password_hash()`) and secure authentication.
-- 🌐 **Frontend:** Creating responsive and user-friendly interfaces with HTML, CSS, and JavaScript.
+
 
 ---
 
